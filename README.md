@@ -16,9 +16,11 @@
 
 
 引导滤波图  
+
   ![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/6e9c5978-41eb-47cb-8bcd-38fe45c4ef06)
   
 自定义NLM图
+
   ![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/39d07952-0181-4d1c-abae-4b83f271792f)
 
  ### 3.皮肤检测
@@ -35,17 +37,7 @@
 ## 5. 锐化
 使用Gabor滤波来提取图像特征，锐化图像
 
-## 6 结果
 
-<div style="display: flex;">
-   <!-- 第一个图片 -->
-   <img src="![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/09db64c3-361c-4de5-9664-e3591ead89ab)
-" alt="原图" width="400" height="300" style="margin-right: 20px;">
-   
-   <!-- 第二个图片 -->
-   <img src="![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/0595434e-407e-4066-8509-6987de4a729a)
-" alt="检测图" width="400" height="300">
-</div>
 
 
 
