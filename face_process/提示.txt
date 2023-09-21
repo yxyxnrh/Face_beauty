@@ -1,0 +1,1 @@
+test.png 与 xml文件 和 main.py 在同一目录下，运行main.py
