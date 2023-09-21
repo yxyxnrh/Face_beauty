@@ -7,14 +7,17 @@
  ## 2. 滤波器
  ### 2.1 引导滤波
  ![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/6f3dc2ea-6fac-484b-b9da-f83eb9e557bb)
+ 
  ### 2.2 NLM滤波
 
 大窗口是以目标像素为中心的搜索窗口，两个灰色小窗口分别是以x, y为中心的邻域窗口。其中以y为中心的邻域窗口在搜索窗口中滑动，通过计算两个邻域窗口间的相似程度为y赋以权值
+
  ![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/79886efd-57f5-494c-b33b-83d937758c59)
 
 
 引导滤波图  
   ![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/6e9c5978-41eb-47cb-8bcd-38fe45c4ef06)
+  
 自定义NLM图
   ![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/39d07952-0181-4d1c-abae-4b83f271792f)
 
@@ -33,12 +36,16 @@
 使用Gabor滤波来提取图像特征，锐化图像
 
 ## 6 结果
-| 图片标签 | 图片 |
-|----------|------|
-| `<img src="image1.jpg" alt="![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/6e658bf3-8382-46a1-b949-3e88423c3495)
-" width="400" height="300">` | ![Image 1](image1.jpg) |
-| `<img src="image2.jpg" alt="![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/65d194ee-7eb2-4bb4-8e1e-9a015c232786)
-" width="400" height="300">` | ![Image 2](image2.jpg) |
+
+<div style="display: flex;">
+   <!-- 第一个图片 -->
+   <img src="![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/09db64c3-361c-4de5-9664-e3591ead89ab)
+" alt="原图" width="400" height="300" style="margin-right: 20px;">
+   
+   <!-- 第二个图片 -->
+   <img src="![image](https://github.com/yxyxnrh/Face_beauty/assets/82510221/0595434e-407e-4066-8509-6987de4a729a)
+" alt="检测图" width="400" height="300">
+</div>
 
 
 
